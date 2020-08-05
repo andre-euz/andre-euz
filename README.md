@@ -5,7 +5,7 @@ I'm a programmer about somewhat 9 years and I started working with programming i
 - 🔭 I’m currently working on Senior Sistemas
 - 🌱 I’m currently learning Web programming in general (Javascript, CSS, NodeJS, a lot of React)
 - 💬 Maybe I can help you with SQL queries, PL/SQL / T-SQL triggers and procedures programming
-- 📫 You can find me in [![Linkedin Badge](https://img.shields.io/badge/-AndreEuzebio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/AndreEuzebio/)](https://www.linkedin.com/in/AndreEuzebio/)  [![Gmail Badge](https://img.shields.io/badge/-andre.r.euzebio@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:andre.r.euzebio@gmail.com)](mailto:andre.r.euzebio@gmail.com) 
+- 📫 You can find me on [![Linkedin Badge](https://img.shields.io/badge/-AndreEuzebio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/AndreEuzebio/)](https://www.linkedin.com/in/AndreEuzebio/)  [![Gmail Badge](https://img.shields.io/badge/-andre.r.euzebio@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:andre.r.euzebio@gmail.com)](mailto:andre.r.euzebio@gmail.com) 
 
 - :bow: Some things about me: </br>
         -  I'm play a lot of games :video_game:</br>

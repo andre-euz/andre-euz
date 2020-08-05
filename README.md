@@ -9,7 +9,7 @@ I'm a programmer about somewhat 9 years and I started working with programming i
 
 - :bow: Some things about me: </br>
         -  I'm play a lot of games :video_game:</br>
-        -  Enthusiast of automobilism 🏎️</br>
+        -  Enthusiast of motorsport 🏎️</br>
         -  Cinephile :clapper: </br>
         -  :coffee: :heart:  
 
